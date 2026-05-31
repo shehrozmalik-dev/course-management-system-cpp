@@ -1,7 +1,7 @@
-# student-management-system-cpp
+# course-management-system-cpp
 
 ## Description
-OOP based student management system in c++ using arrays.
+OOP based course management system in c++ using arrays.
 
 ## features
 1. Add Student
